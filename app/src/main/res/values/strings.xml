@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="email_boş_ola_bilməz">Email boş ola bilməz</string>
+    <string name="email_formatı_səhvdir">Email formatı səhvdir</string>
+    <string name="sifrə_boş_ola_bilməz">Şifrə boş ola bilməz</string>
+    <string name="naməlum_səhv_baş_verdi">səhv baş verdi</string>
+    <string name="ugurla">Qeydiyyat uğurla tamamlandı</string>
+    <string name="sifrə_ən_azı_6_simvol_olmalıdır">Şifrə ən azı 6 simvol olmalıdır</string>
+</resources>
