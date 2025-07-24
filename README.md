@@ -1,4 +1,4 @@
-# 🎬 MovieApp Register Screens (Jetpack Compose)
+# 🎬 MovieApp Register Screens (Jetpack Compose + Clean Architecture)
 
 **MovieApp** is a modern Android application built with Kotlin and Jetpack Compose, designed for movie enthusiasts to register and authenticate using email/password or social media. It leverages Firebase Authentication, Hilt for dependency injection, and follows Clean Architecture principles for a scalable and maintainable codebase.
 
