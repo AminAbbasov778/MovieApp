@@ -8,7 +8,7 @@
 
 | Register Choices       | Sign In                | Sign Up                |
 |-----------------------|-----------------------|-----------------------|
-| <img src="screenshots/register_choices.png" width="200" height="400" /> | <img src="screenshots/sign_in.png" width="200" height="400" /> | <img src="screenshots/sign_up.png" width="200" height="400" /> |
+| <img src="Screenshot/Screenshot_20250724-194817.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250724-195144.png" width="200" height="400" /> | <img src="Screenshot/Screenshot_20250724-195234.png" width="200" height="400" /> |
 
 ---
 
